@@ -34,6 +34,11 @@ When I am not studying or working, you can usually find me:
 * 🎵 **Listening to music:** Music is my constant companion while I am commuting to Milan, studying, or unwinding after a busy shift.
 * 🌍 **Exploring & learning:** I love traveling, discovering new places, and challenging myself with new skills (from web development basics to studying foreign languages). 
 * My most recent trip? [HERE!](https://www.visitczechia.com/it-it/things-to-do/places/landmarks/cities/a-prague-beauty)
-* 
+
+### Get to know my work and learning
+
+- [Our class repo](github.com/ale66/learn-web)
+- [Class playground](github.com/ale66/learn-web-playground-2026-2027)
+- [A MA Comm refactoring project](github.com/ale66/learn-web-playground-2026-2027/Greta-Bertocchi)
 
 P.S: I am also currently learning Russian!
