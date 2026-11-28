@@ -6,8 +6,9 @@
 
 Welcome to my personal page. I am a Master's student, a retail professional, and a creative storyteller based near Milan, Italy.
 
-<img src="./imgs/myself.jpg">
-   
+<div align="center">
+<img src="./imgs/myself.jpg" width="20%">
+</div>
 
 ## 🎓 Academic Background
 I am currently pursuing a Master’s degree in **Public and Corporate Communication** at the **University of Milan** . 
